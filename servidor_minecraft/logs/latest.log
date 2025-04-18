@@ -3821,3 +3821,13 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [18Apr2025 03:38:48.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Crops of the Wild]
 [18Apr2025 03:39:49.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Unbreaking X]
 [18Apr2025 03:40:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Unbreaking X]
+[18Apr2025 03:41:21.401] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[18Apr2025 03:41:27.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[18Apr2025 03:45:18.548] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[18Apr2025 03:45:50.375] [Worker-Main10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-11, z=-118}
+[18Apr2025 03:45:55.662] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[18Apr2025 03:45:55.664] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18Apr2025 03:47:13.204] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[18Apr2025 03:47:13.204] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[18Apr2025 03:47:13.205] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[18Apr2025 03:48:48.216] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType

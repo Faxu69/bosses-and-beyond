@@ -59,6 +59,12 @@
     },
     "done": false
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-04-18 03:40:21 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -548,6 +554,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-04-18 03:37:02 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2025-04-18 00:20:20 +0000"
@@ -930,6 +942,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-18 03:38:48 +0000"
     },
     "done": true
   },
@@ -1431,6 +1449,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:38:23 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
       "is_cursed_one": "2025-04-17 23:51:15 +0000"
@@ -1538,6 +1562,12 @@
       "is_cursed_one": "2025-04-17 23:51:15 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-04-18 03:38:23 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:main/root": {
     "criteria": {

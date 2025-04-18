@@ -59,6 +59,12 @@
     },
     "done": false
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-04-18 03:39:49 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
@@ -368,6 +374,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:43:25 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/chaos_elytra": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
@@ -394,6 +406,7 @@
   },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
+      "has_parent_recipe": "2025-04-18 03:43:25 +0000",
       "is_cursed_one": "2025-04-17 23:50:46 +0000"
     },
     "done": false
@@ -521,6 +534,12 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-04-18 03:36:57 +0000"
     },
     "done": true
   },
@@ -912,6 +931,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-04-18 03:36:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
@@ -920,9 +945,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-04-17 23:56:04 +0000"
+      "has_parent_recipe": "2025-04-17 23:56:04 +0000",
+      "has_items": "2025-04-18 03:43:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
