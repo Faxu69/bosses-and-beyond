@@ -2,9 +2,7 @@
 	id: "40e92f69-9020-39f5-b13d-126ecadd6059"
 	type: "player"
 	player_name: "FmpFaxu"
-	ranks: {
-		40e92f69-9020-39f5-b13d-126ecadd6059: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "FmpFaxu"
 		"ftbteams:description": ""

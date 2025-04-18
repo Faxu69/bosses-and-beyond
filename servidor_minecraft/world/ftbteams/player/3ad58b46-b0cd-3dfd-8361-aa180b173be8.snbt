@@ -2,9 +2,7 @@
 	id: "3ad58b46-b0cd-3dfd-8361-aa180b173be8"
 	type: "player"
 	player_name: "Meulii"
-	ranks: {
-		3ad58b46-b0cd-3dfd-8361-aa180b173be8: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Meulii"
 		"ftbteams:description": ""

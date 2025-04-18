@@ -30,3 +30,80 @@
 [18Apr2025 00:10:25.701] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4162, l='ServerLevel[world]', x=-30.50, y=71.00, z=-139.50]
 [18Apr2025 00:10:28.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4165, l='ServerLevel[world]', x=-16.50, y=74.00, z=-137.50]
 [18Apr2025 00:10:46.951] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4180, l='ServerLevel[world]', x=-41.50, y=71.00, z=-163.50]
+[18Apr2025 00:11:10.156] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/4128, l='ServerLevel[world]', x=19.17, y=37.50, z=-69.30]
+[18Apr2025 00:11:10.157] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4128, l='ServerLevel[world]', x=19.17, y=37.50, z=-69.30]
+[18Apr2025 00:11:42.900] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4257, l='ServerLevel[world]', x=-60.50, y=76.00, z=-160.50]
+[18Apr2025 00:11:59.251] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4273, l='ServerLevel[world]', x=-31.50, y=73.00, z=-170.50]
+[18Apr2025 00:12:31.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4306, l='ServerLevel[world]', x=-43.50, y=71.00, z=-162.50]
+[18Apr2025 00:13:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Isn't It Iron Pick]
+[18Apr2025 00:13:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Suit Up]
+[18Apr2025 00:13:30.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Suit Up]
+[18Apr2025 00:13:32.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [How'd You Get This?]
+[18Apr2025 00:13:39.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4380, l='ServerLevel[world]', x=-61.50, y=76.00, z=-160.50]
+[18Apr2025 00:13:53.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4423, l='ServerLevel[world]', x=-55.50, y=76.00, z=-127.50]
+[18Apr2025 00:14:00.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4446, l='ServerLevel[world]', x=-16.50, y=74.00, z=-139.50]
+[18Apr2025 00:14:30.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was shot by Mutant Skeleton
+[18Apr2025 00:14:30.607] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 17.415138189600835, Y: 31.0, Z: -74.7550141078908
+[18Apr2025 00:14:37.390] [Worker-Main1/WARN] [ModernFix/]: The namespace minecolonies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 00:16:17.549] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4670, l='ServerLevel[world]', x=-31.50, y=71.00, z=-58.50]
+[18Apr2025 00:18:16.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4749, l='ServerLevel[world]', x=-79.50, y=80.00, z=-143.50]
+[18Apr2025 00:19:12.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4854, l='ServerLevel[world]', x=-62.50, y=76.00, z=-160.50]
+[18Apr2025 00:19:51.754] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/4497, l='ServerLevel[world]', x=17.42, y=32.50, z=-74.76]
+[18Apr2025 00:19:51.755] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4497, l='ServerLevel[world]', x=17.42, y=32.50, z=-74.76]
+[18Apr2025 00:20:10.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii was shot by Mutant Skeleton
+[18Apr2025 00:20:10.008] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Meulii at X: 14.300000011920929, Y: 30.0, Z: -72.62842026995973
+[18Apr2025 00:20:15.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was shot by Mutant Skeleton
+[18Apr2025 00:20:15.013] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 33.06069283135884, Y: 29.0, Z: -75.40178825659595
+[18Apr2025 00:20:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [A breath of fresh air]
+[18Apr2025 00:20:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement ['X' Marks the Spot]
+[18Apr2025 00:20:20.988] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Apr2025 00:20:20.988] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mddfc9b4$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[18Apr2025 00:20:38.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[18Apr2025 00:21:19.205] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Meulii picking up: PermanentItemEntity['Soul Crystal'/4972, l='ServerLevel[world]', x=14.30, y=31.50, z=-72.63]
+[18Apr2025 00:21:19.205] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4972, l='ServerLevel[world]', x=14.30, y=31.50, z=-72.63]
+[18Apr2025 00:21:30.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was shot by Mutant Skeleton
+[18Apr2025 00:21:30.307] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 16.33775378501086, Y: 31.0, Z: -73.69999998807907
+[18Apr2025 00:22:27.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Boo!]
+[18Apr2025 00:22:30.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Monster Hunter]
+[18Apr2025 00:22:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was shot by Mutant Skeleton
+[18Apr2025 00:22:44.906] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 14.699999988079071, Y: 30.0, Z: -71.87708855851689
+[18Apr2025 00:22:53.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu fell from a high place
+[18Apr2025 00:22:53.274] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 1.8184074802311192, Y: 67.0, Z: -4.969805774082006
+[18Apr2025 00:22:59.208] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/5734, l='ServerLevel[world]', x=1.82, y=68.50, z=-4.97]
+[18Apr2025 00:22:59.208] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5734, l='ServerLevel[world]', x=1.82, y=68.50, z=-4.97]
+[18Apr2025 00:23:35.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Vampire Slayer]
+[18Apr2025 00:23:39.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii was killed by Faller using magic
+[18Apr2025 00:23:39.659] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Meulii at X: 15.043273917950975, Y: 35.0, Z: -68.0470583628237
+[18Apr2025 00:23:58.557] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/5723, l='ServerLevel[world]', x=14.70, y=31.50, z=-71.88]
+[18Apr2025 00:23:58.558] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5723, l='ServerLevel[world]', x=14.70, y=31.50, z=-71.88]
+[18Apr2025 00:24:03.756] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/5538, l='ServerLevel[world]', x=16.34, y=32.50, z=-73.70]
+[18Apr2025 00:24:03.756] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5538, l='ServerLevel[world]', x=16.34, y=32.50, z=-73.70]
+[18Apr2025 00:24:28.106] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Meulii picking up: PermanentItemEntity['Soul Crystal'/5895, l='ServerLevel[world]', x=15.04, y=36.50, z=-68.05]
+[18Apr2025 00:24:28.106] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5895, l='ServerLevel[world]', x=15.04, y=36.50, z=-68.05]
+[18Apr2025 00:24:38.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was blown up by Faller
+[18Apr2025 00:24:38.411] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 14.568080988002292, Y: 30.0, Z: -71.30000001192093
+[18Apr2025 00:25:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii was shot by Mutant Skeleton
+[18Apr2025 00:25:07.208] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Meulii at X: 28.718918305476816, Y: 29.0, Z: -73.66481946987639
+[18Apr2025 00:25:09.806] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[18Apr2025 00:25:15.605] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/6054, l='ServerLevel[world]', x=14.57, y=31.50, z=-71.30]
+[18Apr2025 00:25:15.606] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6054, l='ServerLevel[world]', x=14.57, y=31.50, z=-71.30]
+[18Apr2025 00:25:48.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was shot by Mutant Skeleton
+[18Apr2025 00:25:48.012] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 13.875804695636086, Y: 30.0, Z: -71.58741087525026
+[18Apr2025 00:25:57.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu fell from a high place
+[18Apr2025 00:25:57.570] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: -2.6536379286173055, Y: 78.0, Z: -10.09886685309894
+[18Apr2025 00:26:02.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu fell from a high place
+[18Apr2025 00:26:02.173] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: -7.18510834544612, Y: 67.0, Z: 5.3184083617394045
+[18Apr2025 00:26:02.912] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Meulii picking up: PermanentItemEntity['Soul Crystal'/6181, l='ServerLevel[world]', x=28.72, y=30.50, z=-73.66]
+[18Apr2025 00:26:02.912] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6181, l='ServerLevel[world]', x=28.72, y=30.50, z=-73.66]
+[18Apr2025 00:26:08.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii was shot by Mutant Skeleton
+[18Apr2025 00:26:08.911] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Meulii at X: 18.058472861268204, Y: 31.0, Z: -75.42501094456817
+[18Apr2025 00:26:37.004] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/6319, l='ServerLevel[world]', x=13.88, y=31.50, z=-71.59]
+[18Apr2025 00:26:37.004] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6319, l='ServerLevel[world]', x=13.88, y=31.50, z=-71.59]
+[18Apr2025 00:27:24.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was slain by Mutant Skeleton
+[18Apr2025 00:27:24.523] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 14.699999988079071, Y: 29.0, Z: -71.59555960390529
+[18Apr2025 00:27:35.458] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Meulii picking up: PermanentItemEntity['Soul Crystal'/6462, l='ServerLevel[world]', x=18.06, y=32.50, z=-75.43]
+[18Apr2025 00:27:35.458] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6462, l='ServerLevel[world]', x=18.06, y=32.50, z=-75.43]
+[18Apr2025 00:27:58.509] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/5031, l='ServerLevel[world]', x=33.06, y=30.50, z=-75.40]
+[18Apr2025 00:27:58.509] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5031, l='ServerLevel[world]', x=33.06, y=30.50, z=-75.40]
+[18Apr2025 00:29:11.206] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/6763, l='ServerLevel[world]', x=14.70, y=30.50, z=-71.60]
+[18Apr2025 00:29:11.206] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6763, l='ServerLevel[world]', x=14.70, y=30.50, z=-71.60]
