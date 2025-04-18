@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/evil_ingot": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -58,6 +64,12 @@
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-17 23:53:37 +0000"
+    },
+    "done": false
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -107,6 +119,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/the_infinitum": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "vinery:cherry_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -128,6 +146,12 @@
   "vinery:straw_hat": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-17 23:53:37 +0000"
     },
     "done": true
   },
@@ -163,7 +187,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2025-04-17 23:43:40 +0000"
+      "has_parent_recipe": "2025-04-17 23:43:40 +0000",
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
     },
     "done": false
   },
@@ -182,6 +207,12 @@
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-04-17 23:53:29 +0000"
     },
     "done": true
   },
@@ -215,6 +246,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-17 23:53:35 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -224,6 +261,12 @@
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/soul_loss": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
     },
     "done": true
   },
@@ -275,6 +318,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/twisted_mirror": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-04-17 23:43:42 +0000"
@@ -317,6 +366,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-04-17 23:43:40 +0000"
@@ -346,6 +401,18 @@
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 23:53:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
   },
   "morevillagers:root": {
     "criteria": {
@@ -388,6 +455,18 @@
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-17 23:53:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-17 23:53:37 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -539,6 +618,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/eldritch_amulet": {
+    "criteria": {
+      "is_the_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -563,6 +648,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-04-17 23:52:55 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2025-04-17 23:43:42 +0000"
@@ -571,7 +662,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2025-04-17 23:43:40 +0000"
+      "has_parent_recipe": "2025-04-17 23:43:40 +0000",
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
     },
     "done": false
   },
@@ -604,6 +696,12 @@
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
   },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
@@ -647,6 +745,18 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-17 23:53:20 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-04-17 23:43:40 +0000"
@@ -683,6 +793,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/cursed_stone": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-04-17 23:43:40 +0000"
@@ -712,6 +828,12 @@
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-17 23:53:37 +0000"
+    },
+    "done": false
   },
   "cataclysm:root": {
     "criteria": {
@@ -797,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-17 23:54:15 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -824,6 +952,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-17 23:53:20 +0000"
     },
     "done": true
   },
@@ -960,9 +1094,16 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2025-04-17 23:43:42 +0000"
+      "minecraft:taiga": "2025-04-17 23:43:42 +0000",
+      "minecraft:beach": "2025-04-17 23:52:41 +0000"
     },
     "done": false
   },
@@ -1027,6 +1168,18 @@
     },
     "done": false
   },
+  "enigmaticlegacy:main/cursed_ring": {
+    "criteria": {
+      "fruit": "2025-04-17 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-17 23:43:40 +0000",
@@ -1052,6 +1205,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/misc/sanguinary_handbook": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -1070,6 +1229,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "vinery:cherry_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -1078,7 +1243,14 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-04-17 23:52:33 +0000",
       "log_spam_fixer": "2025-04-17 23:43:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_slayer": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
     },
     "done": false
   },
@@ -1148,6 +1320,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
+  },
   "vinery:grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -1159,6 +1337,12 @@
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
+    "criteria": {
+      "is_cursed_one": "2025-04-17 23:51:15 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:main/root": {
     "criteria": {
@@ -1172,9 +1356,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-17 23:53:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-04-17 23:53:35 +0000"
     },
     "done": true
   },
