@@ -3924,3 +3924,11 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [18Apr2025 04:19:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has reached the goal [Flawless Crystals]
 [18Apr2025 04:20:20.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Far From Perfect]
 [18Apr2025 04:20:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Elemental Might]
+[18Apr2025 04:21:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Elemental Might]
+[18Apr2025 04:22:28.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has reached the goal [Worthy Equipment]
+[18Apr2025 04:22:52.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Sweet Dreams]
+[18Apr2025 04:26:15.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has completed the challenge [Red as a ruby]
+[18Apr2025 04:26:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has completed the challenge [Red as a ruby]
+[18Apr2025 04:28:46.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Lore Writer]
+[18Apr2025 04:28:48.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has reached the goal [Worthy Equipment]
+[18Apr2025 04:31:07.998] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
