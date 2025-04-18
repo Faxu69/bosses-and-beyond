@@ -192,6 +192,12 @@
     },
     "done": false
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-18 01:06:32 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
@@ -331,6 +337,12 @@
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pillager_camp": "2025-04-18 03:30:13 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
@@ -512,6 +524,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-18 01:10:07 +0000"
+    },
+    "done": false
+  },
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
@@ -556,6 +574,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-18 00:57:37 +0000",
+      "minecraft:spider": "2025-04-18 01:03:34 +0000",
+      "minecraft:creeper": "2025-04-18 01:02:28 +0000",
       "minecraft:zombie": "2025-04-18 00:32:46 +0000"
     },
     "done": false
@@ -764,6 +785,12 @@
       "is_cursed_one": "2025-04-17 23:50:46 +0000"
     },
     "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_pillager_camp": "2025-04-18 03:30:13 +0000"
+    },
+    "done": true
   },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
@@ -1101,6 +1128,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-04-18 03:28:15 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-17 23:43:50 +0000",
@@ -1235,8 +1268,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-18 01:04:56 +0000",
       "minecraft:taiga": "2025-04-17 23:43:51 +0000",
       "minecraft:beach": "2025-04-17 23:52:40 +0000",
+      "minecraft:river": "2025-04-18 00:51:51 +0000",
+      "atmospheric:aspen_parkland": "2025-04-18 00:56:55 +0000",
+      "minecraft:forest": "2025-04-18 01:06:24 +0000",
       "minecraft:lush_caves": "2025-04-18 00:31:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 23:53:26 +0000"
     },
@@ -1340,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-18 01:01:01 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-04-17 23:43:51 +0000"
@@ -1386,6 +1429,12 @@
     "criteria": {
       "requirement": "2025-04-17 23:50:19 +0000",
       "log_spam_fixer": "2025-04-17 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:26:20 +0000"
     },
     "done": true
   },
@@ -1496,6 +1545,12 @@
       "is_cursed_one": "2025-04-17 23:50:46 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-04-18 03:26:20 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:main/root": {
     "criteria": {
