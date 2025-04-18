@@ -204,9 +204,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-18 03:55:55 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:explosive_king": {
+    "criteria": {
+      "explosive_king": "2025-04-18 04:00:17 +0000"
     },
     "done": true
   },
@@ -231,6 +243,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-04-18 00:38:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:55:55 +0000"
     },
     "done": true
   },
@@ -279,6 +297,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-04-18 00:19:21 +0000",
+      "sweet_berries": "2025-04-18 03:55:32 +0000",
       "apple": "2025-04-18 00:29:24 +0000"
     },
     "done": false
@@ -465,6 +484,12 @@
     },
     "done": false
   },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-04-18 03:58:24 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-04-17 23:43:50 +0000"
@@ -498,6 +523,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-17 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2025-04-18 03:55:55 +0000"
     },
     "done": true
   },
@@ -545,6 +576,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-18 03:55:44 +0000",
       "opened_chest": "2025-04-18 01:10:07 +0000"
     },
     "done": false
@@ -738,6 +770,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-18 03:55:44 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-04-17 23:52:52 +0000"
@@ -757,9 +795,21 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-18 03:55:55 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-04-17 23:43:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2025-04-18 03:55:55 +0000"
     },
     "done": true
   },
@@ -789,7 +839,15 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "ratatouille": "2025-04-18 03:47:47 +0000",
       "bacon_and_eggs": "2025-04-17 23:51:37 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-04-18 03:55:29 +0000",
+      "wheat": "2025-04-18 03:57:43 +0000"
     },
     "done": false
   },
@@ -802,6 +860,12 @@
   "enigmaticlegacy:book/brewing/twisted_potion": {
     "criteria": {
       "is_cursed_one": "2025-04-17 23:50:46 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-18 03:55:55 +0000"
     },
     "done": false
   },
@@ -931,6 +995,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "orange": "2025-04-18 03:47:16 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2025-04-18 03:36:45 +0000"
@@ -1001,6 +1071,12 @@
   "vinery:cherry_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-04-18 04:00:17 +0000"
     },
     "done": true
   },
@@ -1226,6 +1302,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-04-18 03:55:55 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
       "log_spam_fixer": "2025-04-17 23:43:51 +0000"
@@ -1380,9 +1462,16 @@
   },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-04-18 03:55:55 +0000",
       "is_cursed_one": "2025-04-17 23:50:46 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-18 03:57:43 +0000"
+    },
+    "done": true
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
@@ -1417,6 +1506,7 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
+      "has_parent_recipe": "2025-04-18 03:55:55 +0000",
       "is_cursed_one": "2025-04-17 23:50:46 +0000"
     },
     "done": false
@@ -1441,6 +1531,7 @@
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-04-18 03:55:55 +0000",
       "is_cursed_one": "2025-04-17 23:50:46 +0000"
     },
     "done": false
