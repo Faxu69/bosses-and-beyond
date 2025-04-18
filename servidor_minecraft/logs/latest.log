@@ -3932,3 +3932,41 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [18Apr2025 04:28:46.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Lore Writer]
 [18Apr2025 04:28:48.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has reached the goal [Worthy Equipment]
 [18Apr2025 04:31:07.998] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[18Apr2025 04:31:44.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Lore Writer]
+[18Apr2025 04:32:28.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has reached the goal [Underground Hides No Secrets]
+[18Apr2025 04:36:10.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Far From Perfect]
+[18Apr2025 04:37:08.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has reached the goal [Underground Hides No Secrets]
+[18Apr2025 04:38:02.441] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[18Apr2025 04:38:02.441] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[18Apr2025 04:40:00.071] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[18Apr2025 04:40:00.114] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[18Apr2025 04:40:00.171] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[18Apr2025 04:40:00.221] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[18Apr2025 04:40:00.265] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[18Apr2025 04:40:00.319] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[18Apr2025 04:40:00.371] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[18Apr2025 04:40:00.421] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Apr2025 04:40:00.471] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Apr2025 04:40:00.517] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Apr2025 04:40:00.571] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Apr2025 04:40:00.614] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Apr2025 04:40:00.880] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Apr2025 04:40:00.880] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Apr2025 04:40:00.891] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Apr2025 04:40:33.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FmpFaxu lost connection: Disconnected
+[18Apr2025 04:40:33.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu left the game
+[18Apr2025 04:40:33.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FmpFaxu[/100.99.135.97:56034] logged in with entity id 19231 at (-290.27500936922434, 47.0, 104.10111544705194)
+[18Apr2025 04:40:34.047] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FmpFaxu
+[18Apr2025 04:40:34.048] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FmpFaxu
+[18Apr2025 04:40:34.048] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FmpFaxu
+[18Apr2025 04:40:34.049] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FmpFaxu
+[18Apr2025 04:40:34.050] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FmpFaxu
+[18Apr2025 04:40:34.052] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FmpFaxu
+[18Apr2025 04:40:34.052] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FmpFaxu
+[18Apr2025 04:40:34.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu joined the game
+[18Apr2025 04:40:34.215] [Server thread/INFO] [Jade/]: Syncing config to FmpFaxu (40e92f69-9020-39f5-b13d-126ecadd6059)
+[18Apr2025 04:40:34.286] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to FmpFaxu...
+[18Apr2025 04:40:34.287] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Apr2025 04:40:34.287] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Apr2025 04:40:34.288] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to FmpFaxu
+[18Apr2025 04:40:42.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Magnificence]

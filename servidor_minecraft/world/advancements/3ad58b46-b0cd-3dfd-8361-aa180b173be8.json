@@ -490,6 +490,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 04:31:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
@@ -719,6 +725,12 @@
   "vinery:cherry_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-04-18 04:36:10 +0000"
     },
     "done": true
   },
@@ -1030,6 +1042,12 @@
       "is_cursed_one": "2025-04-17 23:50:46 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-04-18 04:31:44 +0000"
+    },
+    "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -1404,6 +1422,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:miner_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-04-18 04:32:28 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
@@ -1568,6 +1592,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-18 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2025-04-18 04:31:44 +0000"
     },
     "done": true
   },
@@ -1751,6 +1781,12 @@
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:50 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-04-18 04:29:50 +0000"
     },
     "done": true
   },
