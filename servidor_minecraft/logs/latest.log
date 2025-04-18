@@ -107,3 +107,13 @@
 [18Apr2025 00:27:58.509] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5031, l='ServerLevel[world]', x=33.06, y=30.50, z=-75.40]
 [18Apr2025 00:29:11.206] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/6763, l='ServerLevel[world]', x=14.70, y=30.50, z=-71.60]
 [18Apr2025 00:29:11.206] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6763, l='ServerLevel[world]', x=14.70, y=30.50, z=-71.60]
+[18Apr2025 00:31:15.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Bony King]
+[18Apr2025 00:33:15.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Rotten King]
+[18Apr2025 00:33:59.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was blown up by Crawler
+[18Apr2025 00:33:59.760] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 28.459225714801757, Y: 30.0, Z: -54.92230583276334
+[18Apr2025 00:34:50.455] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/8015, l='ServerLevel[world]', x=28.46, y=31.50, z=-54.92]
+[18Apr2025 00:34:50.455] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/8015, l='ServerLevel[world]', x=28.46, y=31.50, z=-54.92]
+[18Apr2025 00:35:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Knight Quest]
+[18Apr2025 00:36:38.922] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[18Apr2025 00:37:37.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has reached the goal [Adventurer ]
+[18Apr2025 00:38:01.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has reached the goal [Adventurer ]

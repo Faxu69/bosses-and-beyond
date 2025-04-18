@@ -367,6 +367,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 00:37:16 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/chaos_elytra": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -393,6 +399,7 @@
   },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
+      "has_parent_recipe": "2025-04-18 00:37:16 +0000",
       "is_cursed_one": "2025-04-17 23:51:15 +0000"
     },
     "done": false
@@ -735,6 +742,12 @@
     },
     "done": true
   },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-04-18 00:38:01 +0000"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -786,6 +799,12 @@
   "enigmaticaddons:book/misc/ichoroot": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-04-18 00:31:15 +0000"
     },
     "done": true
   },
@@ -893,9 +912,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-04-17 23:53:37 +0000"
+      "has_parent_recipe": "2025-04-17 23:53:37 +0000",
+      "has_items": "2025-04-18 00:37:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -906,6 +926,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-04-18 00:31:33 +0000"
     },
     "done": true
   },
@@ -942,6 +968,18 @@
   "vinery:cherry_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-04-18 00:31:15 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-04-18 00:33:15 +0000"
     },
     "done": true
   },
@@ -1089,6 +1127,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-04-18 00:35:09 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-17 23:43:40 +0000",
@@ -1183,7 +1227,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-17 23:43:42 +0000",
-      "minecraft:beach": "2025-04-17 23:52:41 +0000"
+      "minecraft:beach": "2025-04-17 23:52:41 +0000",
+      "minecraft:lush_caves": "2025-04-18 00:36:09 +0000"
     },
     "done": false
   },
@@ -1195,21 +1240,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-04-18 00:27:24 +0000",
-      "!bit14": "2025-04-18 00:27:24 +0000",
-      "!bit11": "2025-04-18 00:27:24 +0000",
-      "!bit12": "2025-04-18 00:27:24 +0000",
-      "!bit10": "2025-04-18 00:27:24 +0000",
-      "!bit9": "2025-04-18 00:27:24 +0000",
-      "!bit8": "2025-04-18 00:27:24 +0000",
-      "!bit7": "2025-04-18 00:27:24 +0000",
-      "!bit6": "2025-04-18 00:27:24 +0000",
-      "!bit5": "2025-04-18 00:27:24 +0000",
-      "!bit4": "2025-04-18 00:27:24 +0000",
-      "!bit3": "2025-04-18 00:27:24 +0000",
-      "!bit2": "2025-04-18 00:27:24 +0000",
-      "!bit1": "2025-04-18 00:27:24 +0000",
-      "!bit0": "2025-04-18 00:27:24 +0000"
+      "target": "2025-04-18 00:34:38 +0000"
     },
     "done": false
   },
