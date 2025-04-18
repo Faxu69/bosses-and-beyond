@@ -3908,3 +3908,19 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [18Apr2025 04:08:55.000] [Worker-Main11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [18Apr2025 04:09:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [I Found It Underground]
 [18Apr2025 04:10:23.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Ignoring the Advices]
+[18Apr2025 04:11:30.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has reached the goal [Adventure Time]
+[18Apr2025 04:11:48.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has reached the goal [Adventure Time]
+[18Apr2025 04:14:36.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Disme A Dozen]
+[18Apr2025 04:15:33.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Ol' Betsy]
+[18Apr2025 04:15:36.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Getting an Upgrade]
+[18Apr2025 04:15:42.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Disme A Dozen]
+[18Apr2025 04:16:17.684] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/network/ServerBoundCycleQuiverPacket$Slot
+[18Apr2025 04:16:31.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was fireballed by Zombie
+[18Apr2025 04:16:31.453] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: -265.8235148976467, Y: 56.0, Z: 69.48194437597233
+[18Apr2025 04:18:09.047] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/16745, l='ServerLevel[world]', x=-265.82, y=57.50, z=69.48]
+[18Apr2025 04:18:09.048] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/16745, l='ServerLevel[world]', x=-265.82, y=57.50, z=69.48]
+[18Apr2025 04:19:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [I Found It Underground]
+[18Apr2025 04:19:38.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has reached the goal [Flawless Crystals]
+[18Apr2025 04:19:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has reached the goal [Flawless Crystals]
+[18Apr2025 04:20:20.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Far From Perfect]
+[18Apr2025 04:20:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Elemental Might]

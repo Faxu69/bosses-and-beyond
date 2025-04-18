@@ -296,7 +296,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-04-18 00:06:18 +0000"
+      "cooked_beef": "2025-04-18 00:06:18 +0000",
+      "glow_berries": "2025-04-18 04:16:03 +0000",
+      "bread": "2025-04-18 04:09:12 +0000"
     },
     "done": false
   },
@@ -554,6 +556,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 04:14:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-04-17 23:43:42 +0000"
@@ -742,6 +750,12 @@
     },
     "done": false
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-18 04:15:36 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -765,6 +779,12 @@
       "is_the_cursed_one": "2025-04-17 23:51:15 +0000"
     },
     "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-18 04:07:09 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_gray": {
     "criteria": {
@@ -1372,7 +1392,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-04-18 04:05:38 +0000"
+      "not_target": "2025-04-18 04:16:20 +0000"
     },
     "done": false
   },
@@ -1399,6 +1419,12 @@
       "log_spam_fixer": "2025-04-17 23:43:42 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:main/unholy_grail": {
+    "criteria": {
+      "spellstone": "2025-04-18 04:10:23 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1652,6 +1678,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-04-18 04:10:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-04-17 23:43:40 +0000"
@@ -1667,6 +1699,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-04-17 23:53:35 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:adventurer_kit": {
+    "criteria": {
+      "picked_up_accessory": "2025-04-18 04:11:30 +0000"
     },
     "done": true
   },
