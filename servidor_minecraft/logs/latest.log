@@ -117,3 +117,42 @@
 [18Apr2025 00:36:38.922] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
 [18Apr2025 00:37:37.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has reached the goal [Adventurer ]
 [18Apr2025 00:38:01.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has reached the goal [Adventurer ]
+[18Apr2025 00:44:22.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meulii lost connection: Disconnected
+[18Apr2025 00:44:22.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii left the game
+[18Apr2025 00:45:23.701] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[18Apr2025 00:45:51.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu fell from a high place
+[18Apr2025 00:45:51.059] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from FmpFaxu at X: 40.374840146001226, Y: 0.0, Z: -92.29132794343433
+[18Apr2025 00:45:57.007] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/6370, l='ServerLevel[world]', x=-7.19, y=68.50, z=5.32]
+[18Apr2025 00:45:57.007] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6370, l='ServerLevel[world]', x=-7.19, y=68.50, z=5.32]
+[18Apr2025 00:47:38.122] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[18Apr2025 00:47:38.163] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[18Apr2025 00:47:38.212] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[18Apr2025 00:47:38.262] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[18Apr2025 00:47:38.312] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[18Apr2025 00:47:38.363] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[18Apr2025 00:47:38.412] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[18Apr2025 00:47:38.461] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Apr2025 00:47:38.513] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Apr2025 00:47:38.562] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Apr2025 00:47:38.612] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Apr2025 00:47:38.663] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Apr2025 00:47:39.331] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Apr2025 00:47:39.334] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Apr2025 00:47:39.339] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Apr2025 00:47:39.432] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40d4748a
+[18Apr2025 00:47:39.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meulii[/100.81.15.25:50846] logged in with entity id 10302 at (54.7330971195574, 8.0, -85.23120667026517)
+[18Apr2025 00:47:39.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Meulii
+[18Apr2025 00:47:39.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Meulii
+[18Apr2025 00:47:39.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Meulii
+[18Apr2025 00:47:39.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Meulii
+[18Apr2025 00:47:39.497] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Meulii
+[18Apr2025 00:47:39.499] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Meulii
+[18Apr2025 00:47:39.499] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Meulii
+[18Apr2025 00:47:39.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii joined the game
+[18Apr2025 00:47:39.651] [Server thread/INFO] [Jade/]: Syncing config to Meulii (3ad58b46-b0cd-3dfd-8361-aa180b173be8)
+[18Apr2025 00:47:39.746] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Meulii...
+[18Apr2025 00:47:39.746] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Apr2025 00:47:39.746] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Apr2025 00:47:39.747] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Meulii
+[18Apr2025 00:51:03.408] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player FmpFaxu picking up: PermanentItemEntity['Soul Crystal'/9616, l='ServerLevel[world]', x=40.37, y=1.50, z=-92.29]
+[18Apr2025 00:51:03.408] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9616, l='ServerLevel[world]', x=40.37, y=1.50, z=-92.29]
